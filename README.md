@@ -22,3 +22,7 @@ Material em PDF com a sequência de apresentações utilizadas no curso de Banco
 16. [Bancos de Dados Paralelos](./16-SGBDParalelos.pdf)
 17. [Sistema de Banco de Dados Distribuído](./17-SGBDDistribuidos.pdf)
 
+## Materiais Complementares
+- [Scripts de Projetos](./Scripts-Projetos/README.md)
+- [TPC](./tpc/README.md)
+
