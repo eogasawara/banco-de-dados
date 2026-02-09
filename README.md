@@ -22,7 +22,8 @@ Material em PDF com a sequência de apresentações utilizadas no curso de Banco
 16. [Bancos de Dados Paralelos](./16-SGBDParalelos.pdf)
 17. [Sistema de Banco de Dados Distribuído](./17-SGBDDistribuidos.pdf)
 
-Playlist no YouTube: https://www.youtube.com/playlist?list=PLTy3TWJeueGxZ4NfAn1-WpLml3cZL9_06  
+## Playlist
+https://www.youtube.com/playlist?list=PLTy3TWJeueGxZ4NfAn1-WpLml3cZL9_06  
 
 ## Materiais Complementares
 - [Scripts de Projetos](./Scripts-Projetos/README.md)
